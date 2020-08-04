@@ -14,8 +14,9 @@ const selectionSort = (array) => {
 	}
 };
 
-// console.log("Example for sorting an array using Selection Sort.");
 // // ****************************************************************************
+// console.log("Example for sorting an array using Selection Sort.");
+
 // testSelectionSort = [4, 3, 7, 9, 8, 2, 1, 5, 0, 6];
 
 // testSelectionSort.forEach((element) => {
